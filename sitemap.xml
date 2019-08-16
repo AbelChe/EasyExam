@@ -1,57 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/C++/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/Java语言/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/大学物理/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/数字逻辑/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/数据库/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/数据结构/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/离散数学/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/线性代数/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/网络安全/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>None</loc>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/软件工程/</loc>
+     <lastmod>2019-08-16</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://dlnu-dlmu.github.io/EasyExam/高等数学/</loc>
      <lastmod>2019-08-16</lastmod>
      <changefreq>daily</changefreq>
     </url>
